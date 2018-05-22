@@ -1,2 +1,2 @@
-# RPGProject
-this is a RPG game 
+# RunFast
+this is a Card Game !
