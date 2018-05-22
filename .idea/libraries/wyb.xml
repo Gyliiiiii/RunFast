@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="wyb">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/wyb.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
